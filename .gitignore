@@ -1,3 +1,4 @@
 data/clean/
 data/raw/
 data/source/
+data/processed/jobs_clean.csv
