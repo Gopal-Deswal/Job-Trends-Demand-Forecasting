@@ -2,3 +2,4 @@ data/clean/
 data/raw/
 data/source/
 data/processed/jobs_clean.csv
+data/source/postings.csv
